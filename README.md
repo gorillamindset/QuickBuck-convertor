@@ -1,4 +1,4 @@
-# CurrencyConverter
+# QuickBuck Convertor
 ![](https://github.com/gorillamindset/currency-converter/assets/138226552/6dd81eb6-bafa-4b60-a18d-7244add70672)
 ## About
 Welcome to CurrencyConverter, your go-to tool for quick and easy currency conversion! This project enables users to seamlessly convert any currency to another, making it a handy companion for global transactions.
